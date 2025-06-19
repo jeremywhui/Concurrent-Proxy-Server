@@ -1,9 +1,13 @@
 # Concurrent Proxy Server
+
 Makefile	- For building proxy
+
 README.md	- This file
 
 ## Proxy source files
+
 proxy.{c,h}	- Primary proxy code
+
 csapp.{c,h}	- Wrapper and helper functions from the CS:APP text
 
 The program is an upgraded version of the sequential proxy, a concurrent
