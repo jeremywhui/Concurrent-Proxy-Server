@@ -1,11 +1,8 @@
-****************
-CS:APP Proxy Lab
-****************
-
+# Concurrent Proxy Server
 Makefile	- For building proxy
-README		- This file
+README.md	- This file
 
-# Proxy source files
+## Proxy source files
 proxy.{c,h}	- Primary proxy code
 csapp.{c,h}	- Wrapper and helper functions from the CS:APP text
 
